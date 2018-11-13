@@ -71,15 +71,6 @@ if sum(block)>0
             end
             
         end
-%         Num
-%         len
-%         branch
-%         length(pointer)
-% 
-%         length(dead)
-        %     i
-        %     dead(1:Num)
-        %     H(1,:,1:Num)
     end
     for j=1:Num
         if ~dead(j)
